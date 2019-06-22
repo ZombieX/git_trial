@@ -14,3 +14,8 @@ reference :
 Git : https://git-scm.com/book/ja/v2
 Cmake : https://cmake.org/cmake/help/latest/index.html  
 CI : https://juan-medina.com/2017/07/01/moderncppci/  
+
+access : 
+twitter : @zxc_programming  
+mail : shiftzxcvbn<a>gmail.com  
+
