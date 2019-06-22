@@ -17,5 +17,5 @@ CI : https://juan-medina.com/2017/07/01/moderncppci/
 
 access :   
 twitter : @zxc_programming  
-mail : shiftzxcvbn<a>gmail.com  
+mail : shiftzxcvbn\<a\>gmail.com  
 
