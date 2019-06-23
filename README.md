@@ -11,9 +11,17 @@ If you find some wrongs or warse method, please your participation/contribution 
 Thank you for your great contribution !   
   
 reference :   
-Git : https://git-scm.com/book/ja/v2  
-Cmake : https://cmake.org/cmake/help/latest/index.html  
-CI : https://juan-medina.com/2017/07/01/moderncppci/  
+
+Git : 
+https://git-scm.com/book/ja/v2  
+
+Cmake : 
+https://cmake.org/cmake/help/latest/index.html  
+https://qiita.com/shohirose/items/45fb49c6b429e8b204ac
+
+CI : 
+https://juan-medina.com/2017/07/01/moderncppci/  
+
 
 access :   
 twitter : @zxc_programming  

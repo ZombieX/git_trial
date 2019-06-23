@@ -7,6 +7,6 @@ project(hello_world)
 
 add_subdirectory(src)
 add_subdirectory(include)
-#add_executable(hello_world main.cpp)
+add_subdirectory(test)
 
 message("end\troot")

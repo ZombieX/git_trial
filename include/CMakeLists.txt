@@ -1,7 +1,7 @@
 
 #for header only lib
-add_library(library INTERFACE)
+add_library(header_only_lib INTERFACE)
 
 
 #for static lib
-#add_library(library STATIC)
+#add_library(static_lib STATIC lib.cpp)
