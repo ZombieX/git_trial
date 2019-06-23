@@ -1,9 +1,9 @@
 
 #include<iostream>
 
-class hoge{
+class lib_header_only{
 	public:
 		auto operator()()->void{
-			std::cout <<"hoge!!\n";
+			std::cout <<"lib header only\n";
 		}
 };
