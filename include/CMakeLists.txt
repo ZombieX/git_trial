@@ -4,7 +4,7 @@ add_library(header_only_lib INTERFACE)
 
 
 #for static lib
-add_library(static_lib STATIC ../src/static_lib.cpp)
+#add_library(static_lib STATIC ../src/static_lib.cpp)
 
 target_sources(
 	mylib

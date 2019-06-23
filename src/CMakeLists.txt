@@ -2,7 +2,7 @@
 message("start\troot/src")
 
 
-#add_library(static_lib static_lib.cpp)
+add_library(static_lib static_lib.cpp)
 target_sources(
 	mylib
 	PRIVATE 
