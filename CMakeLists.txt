@@ -20,6 +20,7 @@ target_include_directories(mylib PUBLIC include)
 
 
 add_subdirectory(test)
+enable_testing()
 
 
 message("end\troot")

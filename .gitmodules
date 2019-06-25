@@ -1,3 +1,6 @@
 [submodule "third_lib/iutest"]
 	path = third_lib/iutest
 	url = https://github.com/srz-zumix/iutest
+[submodule "third_lib/boost/boost"]
+	path = third_lib/boost/boost
+	url = https://github.com/boostorg/boost
